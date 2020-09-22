@@ -20,15 +20,15 @@ pull_request_rules:
     conditions:
       - author=pyup-bot
       - status-success=build (3.7)
-      - label=update
+      - label=dependencies
     actions:
       merge:
         method: merge
   - name: automatic merge for dependabot pull requests
     conditions:
-      - author=dependabot-preview
+      - author~=^dependabot(|-preview)\[bot\]$
       - status-success=build (3.7)
-      - label=update
+      - label=dependencies
     actions:
       merge:
         method: merge
