@@ -4,4 +4,4 @@ flake8==3.9.2
 tox==3.24.3
 pytest==6.2.5
 setuptools_scm==6.0.1
-Django==3.2.6
+Django==3.2.7
