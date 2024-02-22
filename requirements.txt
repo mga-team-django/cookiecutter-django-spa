@@ -1,4 +1,4 @@
-cookiecutter==2.5.0
+cookiecutter==2.6.0
 black==24.2.0
 flake8==7.0.0
 tox==4.13.0
