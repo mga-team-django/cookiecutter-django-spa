@@ -1,5 +1,5 @@
 cookiecutter==2.6.0
-black==24.3.0
+black==24.4.0
 flake8==7.0.0
 tox==4.14.2
 pytest==8.1.1
