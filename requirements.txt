@@ -3,5 +3,5 @@ black==25.1.0
 flake8==7.1.2
 tox==4.24.1
 pytest==8.3.4
-setuptools_scm==8.1.0
+setuptools_scm==8.2.0
 Django==5.1.6
