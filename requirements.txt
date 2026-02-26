@@ -1,7 +1,7 @@
 cookiecutter==2.6.0
 black==26.1.0
 flake8==7.3.0
-tox==4.46.0
+tox==4.46.3
 pytest==9.0.2
 setuptools_scm==9.2.2
 Django==6.0.2
